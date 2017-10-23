@@ -21,7 +21,7 @@
 
 ## 配置文件
 
-* #### `.client.json`
+* `.client.json`
 
 		{
   			"remote_addr" : "127.0.0.1:20010",   远程服务器监听地址
@@ -29,7 +29,7 @@
   			"password" : "uzon57jd0v869t7w"
 		}
 
-* #### `.server.json`
+* `.server.json`
 
 		{
   			"listen_addr" : "127.0.0.1:20010",   
@@ -38,11 +38,11 @@
 		
 ## TODO
 
-* #### 优化代码
+* 优化代码
 
-* #### 后台运行
+* 后台运行
 
-* #### 支持自定义HTTP报文
+* 支持自定义HTTP报文
 
 
 
